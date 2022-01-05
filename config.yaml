@@ -1,7 +1,7 @@
 theme: "ghostwriter"
-baseurl: https://ryansoheunshim.netlify.app/
+baseurl: http://www.ryansoheunshim.com/
 languageCode: en-us
-title: Soh-Eun's blog
+title: Ryan Soh-Eun Shim
 
 markup:
   goldmark:
