@@ -1,7 +1,7 @@
 theme: "ghostwriter"
-baseurl: https://ryansoheunshim.netlify.app
+baseurl: https://ryansoheunshim.netlify.app/
 languageCode: en-us
-title: My New Hugo Site
+title: Soh-Eun's blog
 
 markup:
   goldmark:
