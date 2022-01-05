@@ -1,2 +1,0 @@
-# soheun-blog
-Personal blog
