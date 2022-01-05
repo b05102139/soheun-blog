@@ -1,5 +1,5 @@
 theme: "ghostwriter"
-baseURL: http://example.org/
+baseurl: 'https://ryansoheunshim.netlify.app'
 languageCode: en-us
 title: My New Hugo Site
 
